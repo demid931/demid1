@@ -44,5 +44,5 @@ while True: #игровой цикл
     rad = 50
     pygame.draw.circle(screen, (0, 225, 225), (a, b), rad) #создание круга
     pygame.display.update()
-
+a = (225,0,0)
 
